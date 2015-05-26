@@ -1,0 +1,26 @@
+h1.main_headers {
+    text-align: center;
+    color: blue;
+    font-family: Georgia;
+    font-size: 3em;
+}
+
+img {
+    float: right;
+    padding: 10px;
+}
+
+div#main {
+    border-style: solid;
+    border-top: solid black;
+}
+
+h3.hunger {
+    color: blue;
+    font-style: italic;
+    text-align: center;
+}
+
+a {
+    color: orange;
+}
